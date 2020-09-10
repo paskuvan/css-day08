@@ -42,3 +42,24 @@ body {
     border-radius: 0 !important;
 }
 
+.btn-primary {
+    background-color:white !important;
+    border-radius: 0 !important;
+    color: #3142c6 !important;
+    border-color: white !important;
+}
+
+.title-header {
+    font-size: 45px;
+}
+
+.sub-header {
+    font-size: 20px;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+}
+
+.img-woman {
+    width: 100%;
+}
+
