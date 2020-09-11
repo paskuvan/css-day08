@@ -16,6 +16,10 @@ body {
     background-color: #fad9ec;
 }
 
+.bg-light-blue {
+    background-color: #f0f8fa;
+}
+
 .blue {
     color: #3142c6;
 }
@@ -114,4 +118,21 @@ body {
 .icon-wireless {
     width: 15px;
     height: auto;
+}
+
+.img-logo {
+    max-width: 100%;
+    height: auto;
+}
+
+.p-logo {
+    padding: 4em 0;
+}
+
+.img-man {
+    width: 90%;
+}
+
+.p-10 {
+    padding: 10px 0;
 }
