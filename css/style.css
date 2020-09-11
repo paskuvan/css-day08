@@ -82,8 +82,7 @@ body {
 }
 
 .content-box-wrapper .content-box p{
-  color: #777;
-  font-size: 18px;
+  font-size: 16px;
   text-align: center;
 }
 .content-box{
@@ -105,4 +104,14 @@ body {
 }
 .content-box .finbyz-icon{
     margin: 0 auto;
+}
+
+.icon-size {
+    width: 25px;
+    height: auto;
+}
+
+.icon-wireless {
+    width: 15px;
+    height: auto;
 }
