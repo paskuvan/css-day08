@@ -63,3 +63,46 @@ body {
     width: 100%;
 }
 
+.img-person {
+    width: 50%;
+}
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+/*Box shadow */
+
+.box-shadow {
+    box-shadow: inset 10px 10px 8px -10px #CCC, inset -10px -10px 8px -10px #CCC;
+}
+.content-box-wrapper .content-box h4{
+  font-weight: 500;
+}
+
+.content-box-wrapper .content-box p{
+  color: #777;
+  font-size: 18px;
+  text-align: center;
+}
+.content-box{
+    text-align: center;
+    padding: 15px;
+    height: 100%;
+    border-radius: 4px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+.content-box:hover{
+    background:#fff;
+    box-shadow: 2px 2px 15px 0 rgba(135,135,135, 0.4);
+    transition: all 0.5s ease 0s;
+}
+.content-box .finbyz-icon img{
+    height:85px;
+}
+.content-box .finbyz-icon{
+    margin: 0 auto;
+}
