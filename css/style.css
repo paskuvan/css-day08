@@ -121,7 +121,7 @@ body {
 }
 
 .img-logo {
-    max-width: 100%;
+    max-width: 80%;
     height: auto;
 }
 
@@ -164,6 +164,12 @@ body {
 .logo-footer {
     max-width: 20%;
 }
+
+.btn-pl {
+    margin-left: 25px;
+}
+
+
 
 
 
