@@ -170,6 +170,36 @@ body {
 }
 
 
+@media (max-width: 768px) {
+    .img-logo {
+        display: block;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .title-header {
+        font-size: 30px;
+    }
+
+    .center {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .icon-size {
+        width: 40px;
+        height: auto;
+    }
+
+    .p-10 {
+        padding: 10px 0;
+    }
+
+    .btn-pl {
+        margin-left: 0 !important;
+    }
+}
+
 
 
 
